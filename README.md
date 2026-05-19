@@ -23,13 +23,3 @@ If you use this dataset in your research, please cite it as:
   publisher = {Springer}
 }
 
-
----
-
-## Contact
-
-For any questions, suggestions, or collaboration regarding this dataset, please feel free to contact:
-
-- **Name**: Your Full Name  
-- **Email**: your.email@example.com  
-- **GitHub**: [yourusername](https://github.com/yourusername)
