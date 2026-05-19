@@ -22,3 +22,6 @@ If you use this dataset in your research, please cite it as:
   year    = {2026},
   publisher = {Springer}
 }
+
+## Contact
+For any inquiries, feedback, or collaboration opportunities, please contact to {nikitaniki027@gmail.com}.
