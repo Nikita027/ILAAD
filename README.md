@@ -1,5 +1,7 @@
 # ILAAD
-Legal Text Summary
+Impact of Domain Dependent Text Preprocessing on Summarization of Indian Legal Documents
+
+## Introduction
 This is the repository for paper titled "Impact of Domain Dependent Text Preprocessing on Summarization of Indian Legal Documents" published in SNCS Springer Journal.
 
 This paper uses a novel dictionary ILAAD to expand abbreviations and acronyms that are specific to Indian judiciary and processes the Indian judgments using Indian Legal Text Preprocessing (ILTP) to generate noise free text and then summarize the Indian Legal Judgment document. Refer to the paper for details.
