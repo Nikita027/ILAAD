@@ -11,13 +11,14 @@ The ILAAD.csv file contains most frequently used Abbrevaiations and Acronyms alo
 ## Citation
 If you use this dataset in your research, please cite it as:
 
+```bibtex
 @article{nikita2026impact,
-  title={Impact of Domain Dependent Text Preprocessing on Summarization of Indian Legal Documents},
-  author={Nikita and Rana, Dipti P and Mehta, Rupa G},
-  journal={SN Computer Science},
-  volume={7},
-  number={2},
-  pages={148},
-  year={2026},
-  publisher={Springer}
+  title   = {Impact of Domain Dependent Text Preprocessing on Summarization of Indian Legal Documents},
+  author  = {Nikita and Rana, Dipti P and Mehta, Rupa G},
+  journal = {SN Computer Science},
+  volume  = {7},
+  number  = {2},
+  pages   = {148},
+  year    = {2026},
+  publisher = {Springer}
 }
